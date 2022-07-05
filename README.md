@@ -4,7 +4,7 @@ Learning To build a simple page using HTML, CSS & JS at [Founders and Coders](ht
 
 ## Project Requirements
 
-- [ ] The page has a title which informs the user what the site is about
+- [x] The page has a title which informs the user what the site is about
 - [ ] The page has a logical layout and clear structure
 - [ ] There are images on the page, with alt-text where appropriate
 - [ ] The page is visually interesting, for example with borders or colours
