@@ -46,6 +46,11 @@ img{
     background: #D5D6D9;
 }
 
+strong {
+    font-style: underline;
+    font-size: 20px;
+}
+
 ul{
     max-width: 550px;
     margin: 0 auto 50px auto;
