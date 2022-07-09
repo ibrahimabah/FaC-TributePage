@@ -68,9 +68,11 @@ strong {
     width: 100%;
     margin: 0 auto 50px auto;
     border: 0;
-    width: 100%;
+    width: 95%;
     text-align: left;
     line-height: 1.5;
+    background: #D5D6D9;
+    border-radius: 10px;
 }
 
 .pathhead {
@@ -87,7 +89,7 @@ strong {
     margin-bottom: 3rem;
 }
 
-#note{
+#footer{
     margin: 10px auto;
     padding: 10px; 
     border-radius: 10px;
