@@ -61,17 +61,30 @@ strong {
     z-index: 999;
     margin: 0 -2px;
     padding: 0.5rem calc(1.25rem + 2px) 0.5rem 0;
+    border-radius: 10px;
 }
 
-ul{
-    max-width: 550px;
+.timeline {
+    width: 100%;
     margin: 0 auto 50px auto;
+    border: 0;
+    width: 100%;
     text-align: left;
     line-height: 1.5;
 }
 
-li{
+.pathhead {
+    color: #0a0a23;
+    font-size: 1.3em;
+    font-weight: normal;
+    position: absolute;
+    top: -2.25rem;
+} 
+
+.description{
     margin: 15px 0;
+    position: relative;
+    margin-bottom: 3rem;
 }
 
 #note{
