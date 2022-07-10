@@ -3,12 +3,28 @@ html, body{
     text-align: center;
     line-height: 1.5;
     background: #E3E4E7;
+    top: 0
 }
 
 #main{
     margin: 15px auto;
     padding: 15px;
+    overflow: hidden; /* no overflowing*/
+    top: 0
 }
+
+@media screen and (max-device-width: 640px) {
+    #main {
+      width: 400px;
+      height: 200px;
+      background-color: chartreuse;
+      color: black;
+    }
+  }
+
+  #title {
+    top: 0;
+  }
 
 h1{
     font-size: 45px;
